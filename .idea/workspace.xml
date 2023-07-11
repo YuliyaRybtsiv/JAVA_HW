@@ -5,12 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f1cd8bd-8fef-4668-a3ad-6525fb1c2e07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_1/Homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_10/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_11/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_2/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_3/Homework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_4/Homework4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_5/Homework5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_6/Homework6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_7/Nearest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_8/WorkingDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_9/Shopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework_1/HomeWork1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,15 +41,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_9.Shopping" />
+      <module name="JAVA_Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Shopping" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
